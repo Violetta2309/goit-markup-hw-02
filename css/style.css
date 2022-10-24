@@ -33,10 +33,8 @@ body {
 .logo-header {
   color: #000000;
 }
-.nav-list {
-}
-.nav-item {
-}
+
+
 .nav-link {
   font-weight: 500;
   font-size: 14px;
@@ -133,10 +131,6 @@ body {
   letter-spacing: 0.03em;
 
   color: var(--title-text-color);
-}
-.activity-list {
-}
-.activity-item {
 }
 
 .team {
